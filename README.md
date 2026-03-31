@@ -29,9 +29,7 @@ plots/
     
     complete plots not used in report/: Completed plots that I decided not to include in my report.
 
-    draft PSR J2322-2650b phase curves/: large set of phase curves that haven't been polished for the psr companion
-
-    WASP-121b and PSR J2322 2650b phase curves/: large set of wasp-121b and psr J2322-2650b phase curves in JWST NIRCam filters.
+    More draft plots are available upon request
     
     Directory where the scripts automatically save the output PDF figures.
 
